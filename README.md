@@ -33,5 +33,5 @@
 ---
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aravindkasireddy)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aravind-reddy-kasireddy-06859316a)    
 
