@@ -4,7 +4,7 @@
 
 🎓 Master's in Data Science (2025) — University of Memphis  
 ☁️ AWS Certified Solutions Architect Associate  
-💻 4+ years of experience in Cloud, DevOps, and Infrastructure Automation  
+💻 5+ years of experience in Cloud, DevOps, and Infrastructure Automation, Database Engineer and administrative tasks 
 
 ---
 
